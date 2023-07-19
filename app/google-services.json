@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300015443640",
+    "project_id": "findfriends-ff964",
+    "storage_bucket": "findfriends-ff964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300015443640:android:17277438e4eeb6fb075e4d",
+        "android_client_info": {
+          "package_name": "poly.vermeg.findfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300015443640-e5ak781hnmev4vquucuspma65n6b9or4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG5X_hpuZh1Y1tCnCdtGEVjsOC9yZG1R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300015443640-e5ak781hnmev4vquucuspma65n6b9or4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
